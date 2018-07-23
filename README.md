@@ -1,5 +1,7 @@
 # Meeting-room-management
-This project is based on tensor flow object detection with Github address https://github.com/tensorflow/models/tree/master/research/object_detection.
+This project is used for Meeting room management such as power saving.
+
+It is based on tensor flow object detection with Github address https://github.com/tensorflow/models/tree/master/research/object_detection.
 
 My enviroment is as below
 1. Ubuntu 14.04.2
